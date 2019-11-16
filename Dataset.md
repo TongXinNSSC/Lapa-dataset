@@ -1,6 +1,6 @@
 # Lapa-dataset
 [paper](https://arxiv.org/abs/1907.11922)
-[ ](./pics/12891021_0.jpg)
+[data](./pics/12891021_0.jpg)
 
 ## Dataset Downloads
 
