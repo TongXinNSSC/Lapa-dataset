@@ -6,7 +6,7 @@
 The masks of Lapa were manually-annotated with  11 classes including  skin, nose, left eye,right eye, left eyebrows, right eyebrows, inner mouth, upper lip, lower lip, hair and background
 
 ## Sample Images
-![ ](./pics/eg.png =342x555)
+![ ](./pics/eg.png)
 ## Dataset Downloads
 JDbox links：
 
