@@ -8,7 +8,7 @@ The masks of Lapa were manually-annotated with  11 classes including  skin, nose
 ## Sample Images
 <div align=center>
 <img src="./pics/eg.png" width="70%" height="70%" />
-<div align=right>
+<div align=left>
   
 ## Dataset Downloads
 JDbox links：
